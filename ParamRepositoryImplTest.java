@@ -20,6 +20,7 @@ public class ParamRepositoryImplTest {
 	@Test
 	public void test() {
 		System.out.println(paramRepository.getValue("llh", "max_uid"));
+		//test
 	}
 
 }
